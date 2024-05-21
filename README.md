@@ -10,7 +10,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="sparkles"> A little about me...
 I am passionate about cybersecurity and network engineering. Currently, I am studying at the Autonomous University of Occident
 ### Programming Languages 🌐
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="Python"></a></
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="Python"></a>
 
 
 
