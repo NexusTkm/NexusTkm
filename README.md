@@ -1,14 +1,14 @@
 <h2> Hi, I'm Jose de Jesus! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Cybersecurity and network engineer at <a href="http://www.unb.br"> Autonomous university of Occident </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Students <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Cybersecurity and network engineer at <a href="http://www.unb.br"> Autonomous university of Occident </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Students <a/a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: nexustkm](https://img.shields.io/twitter/follow/nexustkm?style=social)](https://twitter.com/nexustkm)
-[![Linkedin: Jose de Jesus](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/jose-de-jesus-padilla-molina-035490296/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: Jose de Jesus](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jose_de_Jesus/)](https://www.linkedin.com/in/jose-de-jesus-padilla-molina-035490296/)
+[![GitHub NexusTkm ](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/NexusTkm)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little of me...  
 
 ```Python
 Mexican = {
@@ -26,4 +26,4 @@ print(Mexican)
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@NexusTkm](https://github.com/NexusTkm)
