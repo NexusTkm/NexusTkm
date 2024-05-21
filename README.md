@@ -3,9 +3,9 @@
 <p><em>Cybersecurity and network engineer at <a href="http://www.unb.br"> Autonomous university of Occident </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Students <a/a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: nexustkm](https://img.shields.io/twitter/follow/nexustkm?style=social)](https://twitter.com/nexustkm)
-[![Linkedin: Jose de Jesus](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jose_de_Jesus/)](https://www.linkedin.com/in/jose-de-jesus-padilla-molina-035490296/)
-[![GitHub NexusTkm ](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/NexusTkm)
+ <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
+ <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
+ <a href="https://www.linkedin.com/in/priyanshu-tiwari-b85a7a194/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little of me...  
@@ -22,7 +22,14 @@ print(Mexican)
 
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### Programming Languages 🌐
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+
+### Tools 🛠️
+<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
+
+### OS
+<img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 
 ---
 
