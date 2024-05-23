@@ -21,6 +21,14 @@ I am passionate about cybersecurity and network engineering. Currently, I am stu
 ### OS 💻
 <a href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="Windows"></a> <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali-Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=557C94&labelColor=ffffff" alt="Kali Linux"></a>
 
+
+"""
+
+def frase_ciberseguridad():
+    frase = "En el mundo digital, la ciberseguridad es el guardián silencioso que protege nuestros sueños."
+    print(frase)
+    
+""""
 ---
 
 ⭐️ From [@NexusTkm](https://github.com/NexusTkm)
