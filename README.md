@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jose de Jesus! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="wave"></h2>
-<p><em>Cybersecurity and network engineer at <a href="http://uadeo.mx/">Autonomous University of Occident</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="university"></br>Student</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="student"> </p>
+<p><em>Cybersecurity and network engineer at <a href="http://uadeo.mx/">Universidad Autonoma de Occidente</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="university"></br>Student</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="student"> </p>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230" alt="octocat">
 
